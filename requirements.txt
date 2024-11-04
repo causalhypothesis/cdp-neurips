@@ -1,0 +1,9 @@
+matplotlib
+networkx
+numpy
+pandas
+scikit-learn
+scipy
+tqdm
+-e git+https://github.com/py-why/dowhy.git@9930609212736449eb1c248440228479e4f99bf4#egg=dowhy
+scmtools==0.0.4
